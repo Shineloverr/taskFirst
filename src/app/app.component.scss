@@ -1,0 +1,35 @@
+mat-card {
+  height: 200px;
+  width: 300px;
+  border: 2px solid black;
+  color: red;
+  background-color: #ecebeb;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  box-sizing: border-box;
+  justify-content: center;
+
+}
+
+.container {
+  width: 264px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+input {
+  width: 100%;
+  padding: 0;
+  margin: 10px;
+}
+
+mat-form-field {
+  display: flex;
+}
+
+button {
+  height: 20px;
+}
