@@ -1,0 +1,46 @@
+mat-card {
+  height: 300px;
+  width: 400px;
+  border: 2px solid black;
+  color: red;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 300px;
+  height: 85px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  margin: auto;
+}
+
+mat-form-field {
+  height: 30px;
+  width: 270px;
+  margin: auto;
+  color: black;
+}
+
+.but {
+  justify-content: space-around;
+}
+
+button {
+  height: 30px;
+  align-items: center;
+  display: flex;
+}
+
+a {
+  color: white;
+}
+
+mat-checkbox {
+  color: black;
+}
